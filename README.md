@@ -1,5 +1,5 @@
 # Pricing-Options
-This is a project to calculate the prices of different derivative products
+This is a project to write a program that calculates the prices of different derivative products.
 
 I plan to add some vanilla and exotic options (American/Bermudian/European - call/put options, Digital and double digital options, barrier options, Arithmetic and Geometric Asian options) as well as different methods to obtain their price (Monte Carlo, Black formulas -Scholes, Trees).
 
